@@ -10,3 +10,4 @@ while True:
         cv2.imwrite("photo/suib.jpg", img)
         break
 cv2.destroyAllWindows()
+cv2.waitKey(0)
